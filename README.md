@@ -56,16 +56,16 @@ Etudiant ingenieur a l'**Ecole Centrale Casablanca**, passionne par la **Data Sc
 <tr>
 <td width="50%">
 
-### Recolty
-Agricultural management platform built with **TypeScript** for modern farming operations. Streamlines crop tracking, resource management, and data-driven agricultural decision-making.
+### Recolty V1
+Smart agricultural management platform built with **Angular 21 & AI**. Dashboard, production tracking, employee management, financial module, AI chat assistant, and multilingual support.
 
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github)](https://github.com/elhoussine-arise/Recolty)
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github)](https://github.com/elhoussine-arise/Recolty-V1)
 
 </td>
 <td width="50%">
 
-### Battery Prediction
-Machine Learning project for **battery life prediction** using advanced regression and time-series models. Predicts battery degradation patterns for preventive maintenance.
+### Battery Life Prediction
+**ML-powered system** predicting RUL & SOH of Li-ion batteries. Compares 9 algorithms (XGBoost, LightGBM, Random Forest...) with real-time diagnostic GUI. Built for **ONEE x Huawei**.
 
 [![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github)](https://github.com/elhoussine-arise/projet_battery_prediction)
 
