@@ -27,13 +27,20 @@ Etudiant ingenieur a l'**Ecole Centrale Casablanca**, passionne par la **Data Sc
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-006600?style=for-the-badge&logo=xgboost&logoColor=white)
+
+### Web Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -43,8 +50,9 @@ Etudiant ingenieur a l'**Ecole Centrale Casablanca**, passionne par la **Data Sc
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -56,18 +64,55 @@ Etudiant ingenieur a l'**Ecole Centrale Casablanca**, passionne par la **Data Sc
 <tr>
 <td width="50%">
 
-### Recolty V1
-Smart agricultural management platform built with **Angular 21 & AI**. Dashboard, production tracking, employee management, financial module, AI chat assistant, and multilingual support.
+### Battery Life Prediction
+**ML-powered system** predicting RUL & SOH of Li-ion batteries. Compares **9 algorithms** (XGBoost, LightGBM, Random Forest...) with real-time diagnostic GUI. Built for **ONEE x Huawei**.
 
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github)](https://github.com/elhoussine-arise/Recolty-V1)
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github)](https://github.com/elhoussine-arise/projet_battery_prediction)
 
 </td>
 <td width="50%">
 
-### Battery Life Prediction
-**ML-powered system** predicting RUL & SOH of Li-ion batteries. Compares 9 algorithms (XGBoost, LightGBM, Random Forest...) with real-time diagnostic GUI. Built for **ONEE x Huawei**.
+### Heart Failure Prediction
+**ANN-based** clinical decision support system predicting heart failure mortality risk. Flask web app with **SHAP explainability** for doctors. UCI dataset, CI/CD with pytest.
 
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github)](https://github.com/elhoussine-arise/projet_battery_prediction)
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github)](https://github.com/elhoussine-arise/heart-failure-prediction)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Recolty Hackathon
+Full-stack agricultural platform with **React 19**, **Express**, **MongoDB**, and **AI chat** (Groq/OpenAI). JWT auth, 14 Mongoose models, Docker Compose setup.
+
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github)](https://github.com/elhoussine-arise/recolty-hackathon)
+
+</td>
+<td width="50%">
+
+### Recolty V1
+Smart agricultural management platform built with **Angular 21 & AI**. Dashboard, production tracking, finance module, AI chat assistant, and multilingual support (AR/FR/EN).
+
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github)](https://github.com/elhoussine-arise/Recolty-V1)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### TEIMIX
+**Smart energy monitoring** system with real-time solar production tracking, weather integration, alerts, crowdfunding, and AI chat assistant. Built with Flask & Python.
+
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github)](https://github.com/elhoussine-arise/TEIMIX)
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+*More projects coming soon...*
+
+</div>
 
 </td>
 </tr>
@@ -91,9 +136,9 @@ Smart agricultural management platform built with **Angular 21 & AI**. Dashboard
 ## Currently
 
 - Studying **Data Science & AI** at Ecole Centrale Casablanca
-- Building intelligent solutions for **agriculture** and **predictive maintenance**
-- Exploring **Deep Learning** and **NLP** applications
-- Open to **collaboration** on ML/AI projects
+- Building intelligent solutions for **agriculture**, **energy**, and **healthcare**
+- Exploring **Deep Learning**, **NLP**, and **full-stack development**
+- Open to **collaboration** on ML/AI and web development projects
 
 ---
 
