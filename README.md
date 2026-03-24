@@ -17,7 +17,6 @@
 
 💡 I build intelligent systems that transform data into actionable insights and scalable solutions — from **predictive maintenance** to **smart agriculture** and **clinical decision support**.
 
-🌍 Étudiant ingénieur à l'**École Centrale Casablanca**, passionné par la **Data Science**, l'**Intelligence Artificielle** et le **Machine Learning**.
 
 ---
 
@@ -25,10 +24,11 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=elhoussine-arise&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15)](https://github.com/elhoussine-arise)
+<a href="https://github.com/elhoussine-arise">
+  <img src="https://github-profile-trophy.vercel.app/?username=elhoussine-arise&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" />
+</a>
 
 </div>
-
 ---
 
 ## 🛠️ Tech Stack
